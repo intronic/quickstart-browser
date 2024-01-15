@@ -7,7 +7,8 @@
  :infer-externs auto
 
  :dependencies
- [[reagent "1.2.0"]]
+ [[reagent "1.2.0"]
+  [missionary "b.33"]]
 
  :dev-http
  {8020 "public"}
